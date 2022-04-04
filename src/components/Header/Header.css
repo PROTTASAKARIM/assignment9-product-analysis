@@ -1,0 +1,8 @@
+.link-style{
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+}
+.link-style:hover{
+    color: red;
+}
