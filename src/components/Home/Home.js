@@ -28,7 +28,7 @@ const Home = () => {
                 }
             </div>
 
-            <Link to="/review"><button className='rounded-lg bg-slate-800 text-white p-3'>See All</button></Link>
+            <Link to="/review"><button className='rounded-lg bg-slate-800 text-white p-3 m-3'>See All</button></Link>
         </div>
     );
 };
