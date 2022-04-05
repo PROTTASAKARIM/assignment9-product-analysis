@@ -6,6 +6,7 @@ Go to (https://bookreviewassignmentnine.netlify.app/)
 * DashBoard Done 
 * Ratings done 
 * See all button done 
+* Qus Ans done 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
