@@ -1,0 +1,15 @@
+.home-style{
+    display: flex;
+    margin: 20px;
+}
+.book-details{
+    margin-right:10px ;
+}
+.book-details-paragraph{
+    font-weight: 36px;
+}
+.review-style{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+}

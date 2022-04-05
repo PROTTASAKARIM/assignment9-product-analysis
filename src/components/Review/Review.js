@@ -1,9 +1,15 @@
 import React from 'react';
+import './Review.css'
 
-const Review = () => {
+const Review = (props) => {
+
+    const { id, name, img, rating, review } = props.review;
+    console.log(props);
     return (
-        <div>
-            <h1>this is my review</h1>
+        <div >
+            <img src={img} alt="" />
+            <h4>{name}</h4>
+            <p>{review}</p>
         </div>
     );
 };
