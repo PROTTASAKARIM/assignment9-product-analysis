@@ -12,7 +12,7 @@ const Blogs = () => {
             <p className='m-3 text-left'>Now any children can use UserContext and access that value</p>
             <h1 className='font-semibold text-3xl m-3'>What is semantic Tag?</h1>
             <p className='m-3 text-left'>Semantic HTML elements are those that clearly describe their meaning in a human- and machine-readable way. Elements such as header , footer and article are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.</p>
-            <p className='m-3 text-left'> On the other hand div , span this are non sementic elements. Beacause we can not define anything by seeing div ans sapan tags. </p>
+            <p className='m-3 text-left'> On the other hand div , span this are non semantic elements. Because we can not define anything by seeing div ans span tags. </p>
             <p className='m-3 text-left'>But bys seeing header footer article tags we understand that in the header tag there are the elements of the heads of a web page. There are many semantic tags.</p>
             <p className='m-3 text-left'>Example: article, section , timer, nav etc </p>
             <p className='m-3 text-left'>Semantic tags helps us to build a better web structure for our web page </p>
