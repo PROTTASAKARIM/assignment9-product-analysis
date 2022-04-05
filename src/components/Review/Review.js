@@ -5,8 +5,8 @@ import './Review.css';
 
 const Review = (props) => {
 
-    const { id, name, img, rating, review } = props.review;
-    console.log(props);
+    const { name, img, rating, review } = props.review;
+
     return (
         <div className='bg-slate-200 p-3 rounded'>
             <img className='rounded' src={img} alt="" />

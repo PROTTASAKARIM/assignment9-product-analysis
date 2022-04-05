@@ -2,7 +2,6 @@ import './App.css';
 import Header from './components/Header/Header';
 import { Route, Routes } from 'react-router-dom';
 import Home from './components/Home/Home';
-import Review from './components/Review/Review';
 import Blogs from './components/Blogs/Blogs';
 import About from './components/About/About';
 import DashBoard from './components/DashBoard/DashBoard';
